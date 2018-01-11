@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -framework OpenGL -framework GLUT  CMakeFiles/IMACMAN3D.dir/main.cpp.o  -o IMACMAN3D 

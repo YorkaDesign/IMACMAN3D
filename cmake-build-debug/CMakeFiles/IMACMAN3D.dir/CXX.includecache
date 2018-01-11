@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/freeglut_std.h
+windows.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/gl.h
+gl_mangle.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/gl_mangle.h
+stdlib.h
+-
+windows.h
+-
+glext.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glext.h
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/gl_mangle.h
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glext.h
+windows.h
+-
+stddef.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glu.h
+glu_mangle.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glu_mangle.h
+gl.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/gl.h
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glu_mangle.h
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glut.h
+freeglut_std.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/freeglut_std.h
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/board.cpp
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/ghost.cpp
+ghost.hpp
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/ghost.hpp
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/ghost.hpp
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/keys.cpp
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/main.cpp
+ctype.h
+-
+GL/glut.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glut.h
+GL/glu.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/glu.h
+GL/gl.h
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/GL/gl.h
+math.h
+-
+stdio.h
+-
+ghost.cpp
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/ghost.cpp
+board.cpp
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/board.cpp
+keys.cpp
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/keys.cpp
+render.cpp
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/render.cpp
+
+/Users/Quentin/Documents/IMAC/2A/S1/synthese d'images/IMACMAN3D/render.cpp
+
